@@ -1,3 +1,5 @@
+## site https://adarshsingh87.github.io/
+
 ## Getting Started
 
 1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
@@ -5,4 +7,4 @@
 3.  `npm start`
 
 
-## Inspired by https://github.com/bchiang7/bchiang7.github.io
+designed by bchiang7
