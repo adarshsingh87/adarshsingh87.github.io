@@ -1,0 +1,43 @@
+# Site settings
+name: Adarsh Singh
+title: Adarsh Singh | Front End Software Engineer
+description: Front-end software engineer focused on building beautiful interfaces and experiences
+url: https://adarshsingh87.github.io/
+baseurl: ''
+email: adarshmanoj.05.as@gmail.com
+cover: ./img/og.png
+logo: ./img/emojis/technologist.png
+resume: ./resume.pdf
+social:
+  - title: email
+    url: mailto:adarshmanoj.05.as@gmail.com
+  - title: twitter
+    url: https://twitter.com/adarshsingh87
+  - title: instagram
+    url: https://instagram.com/adarshsingh87
+  - title: github
+    url: https://github.com/adarshsingh87
+  - title: linkedin
+    url: https://www.linkedin.com/in/adarshsingh87
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

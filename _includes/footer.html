@@ -1,0 +1,23 @@
+<footer class="footer">
+  <div class="footer__copyright">
+    <div class="top">
+      <span>Designed &amp; Developed by</span>
+    </div>
+    <div class="bottom">
+      <span>Adarsh Singh</span>
+        &#169;
+      <span id='year'></span>
+      <script>
+        document.getElementById('year').innerHTML = new Date().getFullYear();
+      </script>
+    </div>
+  </div>
+  <div class="footer__links">
+    {% for link in site.social %}
+    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+      <span class="text">{{link.title}}</span>
+      <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+    </a>
+    {% endfor %}
+  </div>
+</footer>

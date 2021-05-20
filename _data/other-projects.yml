@@ -1,0 +1,93 @@
+- name: The Dialogue
+  url: https://thedialogue.co.in/
+  code: https://thedialogue.co.in/
+  description: The Dialogue provides exclusive cover stories, latest news and trends from India.
+  used:
+    - thing: React
+    - thing: React SSR
+    - thing: Webpack
+    - thing: Axios
+
+- name: React SSR
+  url: https://github.com/smoke-trees/ssr-react
+  code: https://github.com/smoke-trees/ssr-react
+  description: A custom setup for server-side rendering in react
+  used:
+    - thing: React
+    - thing: Webpack
+    - thing: Docker
+
+- name: Expense Manager
+  url: https://github.com/adarshsingh87/expense-manager-flutter
+  code: https://github.com/adarshsingh87/expense-manager-flutter
+  description: An expense manager made to learn flutter
+  used:
+    - thing: Flutter
+    - thing: shared-experience
+
+- name: User profile template
+  url: https://adarshsingh87.github.io/user-profile-template/
+  code: https://github.com/adarshsingh87/user-profile-template
+  description: A simple template user profile
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: Bootstrap
+
+- name: A aesthetic clock   
+  url: https://adarshsingh87.github.io/clock/
+  code: https://adarshsingh87.github.io/clock/
+  description: a clock with the background changing with time
+  used:
+    - thing: HTML
+    - thing: CSS
+
+- name: A QR code generator  
+  url: https://adarshsingh87.github.io/qr-code-generator/
+  code: https://adarshsingh87.github.io/qr-code-generator/
+  description: A simple qr code generator
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JS
+
+- name: TO-DO list 
+  url: https://github.com/adarshsingh87/ToDo
+  code: https://github.com/adarshsingh87/ToDo
+  description: A TO-DO list 
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JS
+
+- name: Creative loading screen
+  url: https://adarshsingh87.github.io/creativeLoadingScreen/
+  code: https://adarshsingh87.github.io/creativeLoadingScreen/
+  description: A creative loading screen made to learn css animation 
+  used:
+    - thing: HTML
+    - thing: CSS
+
+- name: Robowars
+  url: https://github.com/adarshsingh87/robowars
+  code: https://github.com/adarshsingh87/robowars
+  description: Code for a wedge bot made to learn arduino
+  used:
+    - thing: Arduino
+
+- name: Sexed app
+  url: https://github.com/KaviiSuri/sexed-app
+  code: https://github.com/KaviiSuri/sexed-app
+  description: Breaking taboos by introducing healthy sexual and reproductive education in 3rd world countries
+  used:
+    - thing: React
+    - thing: Figma
+    - thing: Jupiter notebook
+
+- name: Python snake game
+  url: https://github.com/adarshsingh87/PythonSnakeGame
+  code: https://github.com/adarshsingh87/PythonSnakeGame
+  description: The classic snake game made using python
+  used:
+    - thing: Python
+    - thing: pygame

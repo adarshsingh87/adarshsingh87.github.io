@@ -1,0 +1,20 @@
+languages:
+  - item: JavaScript 
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: C/C++
+
+frameworks:
+  - item: React
+  - item: Flutter
+  - item: Node
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: VS Code
+  - item: Chrome DevTools
+  - item: Postman
+  - item: MongoDB
