@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /blusteak/
 Disallow: /equipo/
 Disallow: /rainmaker/
+Sitemap: https://adarshsingh87.github.io/sitemap.xml
