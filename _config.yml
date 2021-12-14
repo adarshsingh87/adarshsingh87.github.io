@@ -7,7 +7,7 @@ baseurl: ''
 email: adarshmanoj.05.as@gmail.com
 cover: ./img/og.png
 logo: ./img/emojis/technologist.png
-resume: ./resume.pdf
+resume: ./AdarshSingh-WebDeveloper.pdf
 social:
   - title: email
     url: mailto:adarshmanoj.05.as@gmail.com
