@@ -8,8 +8,10 @@ languages:
 
 frameworks:
   - item: React
+  - item: React Native
   - item: Flutter
-  - item: Node
+  - item: NodeJS/Express
+  - item: Flask
 
 tools:
   - item: Bash
