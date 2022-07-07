@@ -1,14 +1,14 @@
 - company: SmokeTrees
-  url: "https://smoketrees.in/"
+  url: 'https://smoketrees.in/'
   time: May 2020 - Present
-  position: Front-end Engineer
+  position: Full-Stack Developer
 
 - company: Unisight Technologies
-  url: "https://unisighttechnologies.com/"
-  time: September 2021 - November 2021
-  position: Front-end Engineer
+  url: 'https://unisighttechnologies.com/'
+  time: September 2021 - January 2022
+  position: Front-end Developer
 
 - company: Freelance
-  url: "mailto:adarshmanoj.05.as@gmail.com"
-  time: Jan 2021 - Present
+  url: 'mailto:adarshmanoj.05.as@gmail.com'
+  time: Jan 2021 - March 2022
   position: Web Developer
