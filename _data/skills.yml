@@ -8,10 +8,11 @@ languages:
 
 frameworks:
   - item: React
+  - item: NextJs
   - item: Svelte
-  - item: React Native
   - item: NodeJS/Express
   - item: Flask
+  - item: React Native
   - item: Flutter
 
 tools:
@@ -19,5 +20,8 @@ tools:
   - item: Git & Github
   - item: VS Code
   - item: Chrome DevTools
+  - item: MochaJs test
   - item: Postman
+  - item: Postgresql
   - item: MongoDB
+  - item: Docker
