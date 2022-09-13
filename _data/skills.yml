@@ -4,6 +4,7 @@ languages:
   - item: HTML
   - item: CSS/Sass
   - item: Python
+  - item: GOlang
   - item: C/C++
 
 frameworks:
@@ -16,12 +17,13 @@ frameworks:
   - item: Flutter
 
 tools:
-  - item: Bash
   - item: Git & Github
   - item: VS Code
   - item: Chrome DevTools
   - item: MochaJs test
+  - item: Swagger: API docs
   - item: Postman
   - item: Postgresql
   - item: MongoDB
   - item: Docker
+  - item: Bash
