@@ -21,7 +21,7 @@ tools:
   - item: VS Code
   - item: Chrome DevTools
   - item: MochaJs test
-  - item: Swagger: API docs
+  - item: 'Swagger: API docs'
   - item: Postman
   - item: Postgresql
   - item: MongoDB
