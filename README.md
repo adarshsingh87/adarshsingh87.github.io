@@ -7,4 +7,4 @@
 3.  `npm start`
 
 
-designed by bchiang7
+template by @bchiang7
